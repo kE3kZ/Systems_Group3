@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+}
+
+.header {
+    overflow: auto;
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(216, 177, 71);
+}
+
+h1 {
+    font-size: 5vmax;
+    text-align: center;
+    font-style: bold;
+    padding: 0%;
+    margin: 1.2%;
+    overflow: auto;
+}
+
+img {
+    padding-left: 2%;
+    padding-right: 2%;
+    width: 6vmax;
+    height: 6vmax;
+    overflow: auto;
+}
