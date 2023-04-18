@@ -1,13 +1,12 @@
 button {
     display:block;
     margin: auto;
-    margin-bottom: 2em;
-    margin-top: 10em;
-    margin-left: 37em;
+    margin-bottom: 5%;
+    margin-top: 5%;
     border:rgb(46, 35, 4);
     color:rgb(179, 125, 46);
     padding: 1%;
-    font-size: 1.5em;
+    font-size: 3em;
     cursor: pointer;
     border-radius: 20px;
 }
@@ -20,22 +19,4 @@ button {
 
 .back:hover{
     background-color: rgb(170, 59, 32);
-}
-
-.thanks {
-    display: inline-block;
-    border: .3em rgb(46, 35, 4) double;
-    margin-top: 7em;
-    margin-left:35%;
-    font-size: 1.2em;
-}
-
-.t {
-    padding: 2em;
-    text-indent: 31%;
-
-}
-
-.p {
-    padding: 2em;
 }

@@ -1,12 +1,12 @@
 button {
-    display:inline-block;
+    display:block;
     margin: auto;
-    margin-bottom: 2em;
-    margin-top: 19em;
+    margin-bottom: 5%;
+    margin-top: 5%;
     border:rgb(46, 35, 4);
     color:rgb(179, 125, 46);
     padding: 1%;
-    font-size: 1.5em;
+    font-size: 3em;
     cursor: pointer;
     border-radius: 20px;
 }
@@ -18,5 +18,36 @@ button {
 }
 
 .back:hover{
+    background-color: rgb(170, 59, 32);
+}
+
+.daily {
+    background-color: rgb(197, 124, 29);
+    color: black;
+    border: solid;
+}
+
+.daily:hover{
+    background-color: rgb(170, 59, 32);
+}
+
+
+.weekly {
+    background-color: rgb(197, 124, 29);
+    color: black;
+    border: solid;
+}
+
+.weekly:hover{
+    background-color: rgb(170, 59, 32);
+}
+
+.monthly {
+    background-color: rgb(197, 124, 29);
+    color: black;
+    border: solid;
+}
+
+.monthly:hover{
     background-color: rgb(170, 59, 32);
 }
