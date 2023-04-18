@@ -1,0 +1,22 @@
+button {
+    display:inline-block;
+    margin: auto;
+    margin-bottom: 2em;
+    margin-top: 19em;
+    border:rgb(46, 35, 4);
+    color:rgb(179, 125, 46);
+    padding: 1%;
+    font-size: 1.5em;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.back {
+    background-color: rgb(197, 124, 29);
+    color: black;
+    border: solid;
+}
+
+.back:hover{
+    background-color: rgb(170, 59, 32);
+}

@@ -1,0 +1,40 @@
+button {
+    display: block;
+    margin: auto;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    border:rgb(46, 35, 4);
+    color:rgb(179, 125, 46);
+    padding: 2%;
+    font-size: 3em;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.order {
+    background-color: rgb(197, 124, 29);
+    color: black;
+    border: solid;
+}
+
+.order:hover{
+    background-color: rgb(170, 59, 32);
+}
+
+.admin {
+    background-color: rgb(197, 124, 29);
+    color: black;
+    border: solid;
+    padding-right: 3.25%;
+    padding-left: 3.25%;
+    
+}
+
+.admin:hover{
+    background-color: rgb(170, 59, 32);
+}
+
+.welcome {
+    text-align: center;
+    font-size: 2em;
+}
