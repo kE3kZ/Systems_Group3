@@ -2,8 +2,8 @@ button {
     display:block;
     margin: auto;
     margin-bottom: 2em;
-    margin-top: 10em;
-    margin-left: 37em;
+    margin-top: 9em;
+    margin-left: 35em;
     border:rgb(46, 35, 4);
     color:rgb(179, 125, 46);
     padding: 1%;
@@ -26,7 +26,7 @@ button {
     display: inline-block;
     border: .3em rgb(46, 35, 4) double;
     margin-top: 7em;
-    margin-left:35%;
+    margin-left:32%;
     font-size: 1.2em;
 }
 

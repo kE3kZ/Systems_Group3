@@ -2,7 +2,7 @@ button {
     display:inline-block;
     margin: auto;
     margin-bottom: 2em;
-    margin-top: 19em;
+    margin-top: 1em;
     border:rgb(46, 35, 4);
     color:rgb(179, 125, 46);
     padding: 1%;
@@ -32,4 +32,85 @@ button {
 
 .submit:hover{
     background-color: rgb(170, 59, 32);
+}
+
+.orderwelcome {
+    display: block;
+    font-size: 1.8em;
+    margin-left: 45%;
+}
+
+form.userform {
+    display: inline-block;
+    border: .2em solid rgb(170, 59, 32);
+    margin: 1%;
+    padding: 3%;
+    margin-left: 34%;
+}
+
+.whitebread {
+    background-color: rgb(197, 124, 29);
+    color: black;
+    border: solid;
+    margin-left: 3%;
+    margin-top: 1%;
+}
+
+.whitebread:hover{
+    background-color: rgb(170, 59, 32);
+}
+
+.wheatbread {
+    background-color: rgb(197, 124, 29);
+    color: black;
+    border: solid;
+}
+
+.wheatbread:hover{
+    background-color: rgb(170, 59, 32);
+}
+
+.whitebuns {
+    background-color: rgb(197, 124, 29);
+    color: black;
+    border: solid;
+}
+
+.whitebuns:hover{
+    background-color: rgb(170, 59, 32);
+}
+
+.wheatbuns {
+    background-color: rgb(197, 124, 29);
+    color: black;
+    border: solid;
+}
+
+.wheatbuns:hover{
+    background-color: rgb(170, 59, 32);
+}
+
+.flatbread {
+    background-color: rgb(197, 124, 29);
+    color: black;
+    border: solid;
+}
+
+.flatbread:hover{
+    background-color: rgb(170, 59, 32);
+}
+
+.frenchbread {
+    background-color: rgb(197, 124, 29);
+    color: black;
+    border: solid;
+}
+
+.frenchbread:hover{
+    background-color: rgb(170, 59, 32);
+}
+
+.bakeryAmt {
+    display: inline-block;
+    border: .2em solid rgb(170, 59, 32);
 }
