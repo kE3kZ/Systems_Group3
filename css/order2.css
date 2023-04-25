@@ -1,0 +1,77 @@
+button {
+    display:inline-block;
+    margin: auto;
+    margin-bottom: 2em;
+    margin-top: 1em;
+    border:rgb(46, 35, 4);
+    color:rgb(179, 125, 46);
+    padding: 1%;
+    font-size: 1.5em;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.back1 {
+    background-color: rgb(197, 124, 29);
+    color: black;
+    border: solid;
+    margin-left: 40%;
+    margin-top: 3%;
+}
+
+.back1:hover{
+    background-color: rgb(170, 59, 32);
+}
+
+.submit {
+    background-color: rgb(197, 124, 29);
+    color: black;
+    border: solid;
+    padding-right: 3.25%;
+    padding-left: 3.25%;
+    margin-top: 3%;
+    margin-left: 5%;
+    
+}
+
+.submit:hover{
+    background-color: rgb(170, 59, 32);
+}
+
+.orderwelcome {
+    display: block;
+    font-size: 1.8em;
+    margin-left: 45%;
+}
+
+
+input[type=text], select{
+    display: block;
+    border: .2em solid rgb(170, 59, 32);
+    margin-left: 46%; 
+    padding: 1%;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=email], select{
+    display: block;
+    border: .2em solid rgb(170, 59, 32);
+    margin-left: 46%; 
+    padding: 1%;
+    box-sizing: border-box;
+}
+
+input[type=tell], select{
+    display: block;
+    border: .2em solid rgb(170, 59, 32);
+    margin-left: 46%; 
+    padding: 1%;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+label{
+    margin-left: 46%; 
+
+}

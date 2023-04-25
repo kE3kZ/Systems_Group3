@@ -15,6 +15,8 @@ button {
     background-color: rgb(197, 124, 29);
     color: black;
     border: solid;
+    margin-left: 35%;
+    margin-top:3%;
 }
 
 .back1:hover{
@@ -27,6 +29,8 @@ button {
     border: solid;
     padding-right: 3.25%;
     padding-left: 3.25%;
+    margin-top:3%;
+    margin-left: 10%;
     
 }
 
@@ -40,15 +44,16 @@ button {
     margin-left: 45%;
 }
 
-form.userform {
+.bakeryAmt {
     display: inline-block;
-    border: .2em solid rgb(170, 59, 32);
-    margin: 1%;
+    margin-left: 40%;
     padding: 3%;
-    margin-left: 34%;
 }
 
+
 .whitebread {
+    display: block;
+    padding: 10%;
     background-color: rgb(197, 124, 29);
     color: black;
     border: solid;
@@ -61,6 +66,8 @@ form.userform {
 }
 
 .wheatbread {
+    display: block;
+    padding: 10%;
     background-color: rgb(197, 124, 29);
     color: black;
     border: solid;
@@ -71,6 +78,8 @@ form.userform {
 }
 
 .whitebuns {
+    display: block;
+    padding: 10%;
     background-color: rgb(197, 124, 29);
     color: black;
     border: solid;
@@ -81,6 +90,8 @@ form.userform {
 }
 
 .wheatbuns {
+    display: block;
+    padding: 10%;
     background-color: rgb(197, 124, 29);
     color: black;
     border: solid;
@@ -91,6 +102,8 @@ form.userform {
 }
 
 .flatbread {
+    display: block;
+    padding: 15%;
     background-color: rgb(197, 124, 29);
     color: black;
     border: solid;
@@ -101,6 +114,8 @@ form.userform {
 }
 
 .frenchbread {
+    display: block;
+    padding: 15%;
     background-color: rgb(197, 124, 29);
     color: black;
     border: solid;
@@ -110,7 +125,3 @@ form.userform {
     background-color: rgb(170, 59, 32);
 }
 
-.bakeryAmt {
-    display: inline-block;
-    border: .2em solid rgb(170, 59, 32);
-}
