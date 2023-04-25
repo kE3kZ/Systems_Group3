@@ -12,3 +12,9 @@ const orderSchema = {
     CustName: '',
     CustContact: ''
   }
+
+  const Users ={
+    UserID: '',
+    username: '',
+    password: ''
+  }
